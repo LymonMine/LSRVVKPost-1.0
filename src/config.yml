@@ -1,0 +1,7 @@
+#Plugin created by Lymon_MineDel. Зависимость в VKAPI!!
+#/fakepost - lsrvvkpost.fake - Отправить фейковый пост
+alert-newpost:
+  - '&e&lНОВЫЙ ПОСТ В ГРУППЕ &b&lВК СЕРВЕРА'
+  - '&d&lГруппа в &b&lВК&f: vk.com/lsrv_test'
+  - '&e&lНОВЫЙ ПОСТ В ГРУППЕ &b&lВК СЕРВЕРА'
+noperm: '&c&lУ вас нет прав!'

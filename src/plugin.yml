@@ -1,0 +1,8 @@
+name: LSRVVKPost
+version: 1.0
+author: Lymon_MineDel
+main: ru.lsrvvkpost.main
+depend: [VK-API]
+commands:
+  fakepost:
+    description: _
